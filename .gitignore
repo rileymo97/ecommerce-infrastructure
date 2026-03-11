@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfstate.d/
+*.tfstate
+*.tfstate.backup
+
+# Environment
+.env
+
+# Mac
+.DS_Store
